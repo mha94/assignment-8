@@ -1,0 +1,28 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "lol",
+      "emailAddress": "lol@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "lol@bignerdranch.com"
+    },
+    {
+      "coffee": "lol",
+      "emailAddress": "a@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "a@bignerdranch.com"
+    },
+    {
+      "coffee": "asd",
+      "emailAddress": "c@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "c@bignerdranch.com"
+    }
+  ]
+}
